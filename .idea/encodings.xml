@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/zzw/camear/module/CameraContainer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/zzw/camear/module/CameraOperation.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/zzw/camear/module/CameraView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/zzw/camear/module/FocusImageView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/zzw/camear/module/TempImageView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/focus_focus_failed.9.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/focus_focused.9.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/focus_focusing.9.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/camear1/src/main/java/com/zzw/camear1/CameraContainer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camear1/src/main/java/com/zzw/camear1/CameraOperation.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camear1/src/main/java/com/zzw/camear1/CameraView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camear1/src/main/java/com/zzw/camear1/FocusImageView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camear1/src/main/java/com/zzw/camear1/TempImageView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camear1/src/main/res/anim" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/camear1/src/main/res/drawable-hdpi/focus_focus_failed.9.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/camear1/src/main/res/drawable-hdpi/focus_focused.9.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/camear1/src/main/res/drawable-hdpi/focus_focusing.9.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/camear1/src/main/res/layout/cameracontainer.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/camear1/src/main/res/values/attrs.xml" charset="GBK" />
+  </component>
+</project>
